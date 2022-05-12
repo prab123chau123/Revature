@@ -1,14 +1,12 @@
 # Revature
 HOTEL MANAGEMENT SYSTEM (Receptionist Model)
 
-Receptionist Module which consists of overall 5 options.The receptionist can access the available Rooms , can check the guest/customer regiistration and details of customer and can generate the bills of the customer based on the stay and service used by the Customer.
+Receptionist Module which consists of overall 5 options.The receptionist can access the available Rooms , can check the guest/customer registration and details of customer and can generate the bills of the customer based on the stay and service used by the Customer.
 
 The entire project is developed by the Core java Programming in which interface class is defined which was a DAO file in which all the abstact methods where defined and those methods were implemented in concrete classes.To connect and establish the connection from databse JDBC was used so its has connected the java code with sql for fetching details and storing the data.
 First through connection interface we have established the connection to database and to store data preparedstatement was used and resultset interface was used to featch and display the data to the java console.
 The below model was a menu driven which was displayed using do while loop and it gave a flexibilty for receptionist to access all the options.
-♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦
 ------------------- Hotel OLDTOWN ----------------
-♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦
                   Welcome Receptionist!
 
       Please Choose from below options-
